@@ -59,9 +59,8 @@ namespace Exp2
 
 
 ## Output:
-![](./out1.png)
-![](./out2.png)
-
+![image](https://user-images.githubusercontent.com/93978702/226600291-3b21d58b-fd05-489d-88cf-d05d9235b5d8.png)
+![image](https://user-images.githubusercontent.com/93978702/226600469-c4d12686-2412-4c70-9bc9-2519810b61f0.png)
 
 ## Result:
 Thus the C# program to display whether the given string is Palindrome or not is executed successfully.
